@@ -6,4 +6,4 @@ This is a  demo for Git &amp; Github account.
  status = check the status of our git repo 
 
 # TO make changes final
- first add file then commit & at last push these files into Github 
+ First add file then commit & at last push these files into Github 
